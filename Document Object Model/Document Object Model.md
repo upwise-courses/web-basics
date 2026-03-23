@@ -4,7 +4,7 @@
 | 🇺🇸 **English** | Tree structure of HTML code     |
 | 🇷🇺 **Russian** | Древовидная структура HTML кода |
 # 🖼️ **Images**
-![DOM](Images/DOM.png)
+![DOM](../Images/DOM.png)
 # ⛓️ **Links**
 - [[Why we need DOM]]
 # 📥 **Sources**

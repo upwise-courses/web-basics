@@ -5,7 +5,7 @@
 | 🇺🇸 **English** | Changing content via JS in response to actions |
 | 🇷🇺 **Russian** | Изменение контента JS'ом в ответ на действия   |
 # 🖼️ **Images**
-![DOM](Images/DOM-Manipulation.png)
+![DOM](../Images/DOM-Manipulation.png)
 # 👨‍👩‍👧 **Parent**
 - [[Document Object Model]]
 # 📥 **Sources**
